@@ -1,2 +1,2 @@
 # rabbitmq
-Repository for rabbitmq docker comfigs
+Repository for rabbitmq docker configs
