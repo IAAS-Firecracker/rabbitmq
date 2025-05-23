@@ -20,5 +20,5 @@ volumes:
 
 networks:
   iaas-firecracker-network:
-    # external: true
-    # name: service-config_iaas-firecracker-network  # Replace with actual network name
+    external: true
+    name: service-config_iaas-firecracker-network  # Replace with actual network name
